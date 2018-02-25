@@ -1,0 +1,13 @@
+{
+  "name": "access-token-refresher",
+  "version": "1.0.0",
+  "description": "Function for refresh tokens for alexa gateway events",
+  "main": "index.js",  
+  "author": "Robinson Mesino",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "q": "^1.5.1",
+    "request": "^2.83.0"
+  },
+  "license": "ISC"
+}
